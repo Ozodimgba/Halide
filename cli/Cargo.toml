@@ -1,6 +1,6 @@
 [package]
 name = "halide"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 description = "Flexible suite of solana developer tooling for devs that have something to do with their time"
 authors = ["github.com/Ozodimgba"]
